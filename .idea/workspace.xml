@@ -21,16 +21,188 @@
   <component name="FavoritesManager">
     <favorites_list name="web_scrapper" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="configuration.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/configuration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="25" selection-start="652" selection-end="652" vertical-scroll-proportion="-6.685185" vertical-offset="0" max-vertical-offset="2698">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scrapper.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scrapper.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="95" column="0" selection-start="3633" selection-end="3633" vertical-scroll-proportion="-11.392858" vertical-offset="1486" max-vertical-offset="3040">
+              <folding>
+                <element signature="e#6#89#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="phpcrawler.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/phpcrawl/classes/phpcrawler.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="532" column="37" selection-start="19788" selection-end="19790" vertical-scroll-proportion="-0.24074075" vertical-offset="9696" max-vertical-offset="15333">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScrapperSpider.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/ScrapperSpider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="78" column="52" selection-start="2793" selection-end="2793" vertical-scroll-proportion="-0.08163265" vertical-offset="1558" max-vertical-offset="2489">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rb.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/redbeanphp/rb.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="249" column="0" selection-start="7211" selection-end="7211" vertical-scroll-proportion="-11.535714" vertical-offset="4408" max-vertical-offset="47880">
+              <folding>
+                <marker date="1339847318000" expanded="true" signature="16871:16907" placeholder="ALTER TABLE $table ADD..." />
+                <marker date="1339847318000" expanded="true" signature="17385:17402" placeholder="UPDATE $tabl..." />
+                <marker date="1339847318000" expanded="true" signature="18428:18476" placeholder="INSERT INTO ..." />
+                <marker date="1339847318000" expanded="true" signature="19709:19722" placeholder="SELECT * FRO..." />
+                <marker date="1339847318000" expanded="true" signature="19999:20049" placeholder="SELECT count..." />
+                <marker date="1339847318000" expanded="true" signature="20964:21186" placeholder="SELECT count..KEY_COLUMN_USAGE..." />
+                <marker date="1339847318000" expanded="true" signature="21244:21345" placeholder="ALTER TABLE ..$table&#10;&#9;&#9;&#9;&#9;ADD..." />
+                <marker date="1339847318000" expanded="true" signature="21365:21380" placeholder="UPDATE SET N..." />
+                <marker date="1339847318000" expanded="true" signature="28136:28186" placeholder="ALTER TABLE $table CHANGE..." />
+                <marker date="1339847318000" expanded="true" signature="29289:29469" placeholder="SELECT count..KEY_COLUMN_USAGE..." />
+                <marker date="1339847318000" expanded="true" signature="30497:30521" placeholder="drop table i..." />
+                <marker date="1339847318000" expanded="true" signature="32327:32367" placeholder="ALTER TABLE ..." />
+                <marker date="1339847318000" expanded="true" signature="33347:33378" placeholder="DROP TABLE I..." />
+                <marker date="1339847318000" expanded="true" signature="33473:33518" placeholder="INSERT INTO ..." />
+                <marker date="1339847318000" expanded="true" signature="33496:33509" placeholder="SELECT * FRO..." />
+                <marker date="1339847318000" expanded="true" signature="33532:33551" placeholder="DROP TABLE `..." />
+                <marker date="1339847318000" expanded="true" signature="33661:33681" placeholder="INSERT INTO ..." />
+                <marker date="1339847318000" expanded="true" signature="33682:33706" placeholder="SELECT * FRO..tmp_backup..." />
+                <marker date="1339847318000" expanded="true" signature="33720:33741" placeholder="DROP TABLE t..." />
+                <marker date="1339847318000" expanded="true" signature="33870:33950" placeholder="SELECT name ..sqlite_master..." />
+                <marker date="1339847318000" expanded="true" signature="35048:35066" placeholder="DELETE FROM ..." />
+                <marker date="1339847318000" expanded="true" signature="36655:36686" placeholder="DROP TABLE I..." />
+                <marker date="1339847318000" expanded="true" signature="36785:36830" placeholder="INSERT INTO ..." />
+                <marker date="1339847318000" expanded="true" signature="36808:36821" placeholder="SELECT * FRO..." />
+                <marker date="1339847318000" expanded="true" signature="36885:36904" placeholder="DROP TABLE `..." />
+                <marker date="1339847318000" expanded="true" signature="37024:37044" placeholder="INSERT INTO ..." />
+                <marker date="1339847318000" expanded="true" signature="37045:37069" placeholder="SELECT * FRO..tmp_backup..." />
+                <marker date="1339847318000" expanded="true" signature="37085:37106" placeholder="DROP TABLE t..." />
+                <marker date="1339847318000" expanded="true" signature="37745:37769" placeholder="drop table i..." />
+                <marker date="1339847318000" expanded="true" signature="39014:39094" placeholder="select table..tables..." />
+                <marker date="1339847318000" expanded="true" signature="39394:39481" placeholder="select colum..columns..." />
+                <marker date="1339847318000" expanded="true" signature="40742:40800" placeholder="ALTER TABLE $table \n\t ALTER..." />
+                <marker date="1339847318000" expanded="true" signature="41069:41461" placeholder="SELECT i.rel..pg_class..." />
+                <marker date="1339847318000" expanded="true" signature="42544:43096" placeholder="SELECT c.oid..pg_class..." />
+                <marker date="1339847318000" expanded="true" signature="43197:43300" placeholder="ALTER TABLE ..$table&#10;&#9;&#9;&#9;&#9;&#9;ADD..." />
+                <marker date="1339847318000" expanded="true" signature="43320:43346" placeholder="UPDATE SET N..." />
+                <marker date="1339847318000" expanded="true" signature="43631:44216" placeholder="SELECT c.oid..pg_class..." />
+                <marker date="1339847318000" expanded="true" signature="44298:44417" placeholder="ALTER TABLE \&quot;$table\&quot;..." />
+                <marker date="1339847318000" expanded="true" signature="44449:44568" placeholder="ALTER TABLE \&quot;$table\&quot;..." />
+                <marker date="1339847318000" expanded="true" signature="44907:44938" placeholder="drop table i..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoggerAppenderFile.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/log4php/appenders/LoggerAppenderFile.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="104" column="0" selection-start="2843" selection-end="2843" vertical-scroll-proportion="-11.535714" vertical-offset="1330" max-vertical-offset="2869">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoggerAppenderConsole.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/log4php/appenders/LoggerAppenderConsole.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="0" selection-start="2866" selection-end="2866" vertical-scroll-proportion="-24.464285" vertical-offset="816" max-vertical-offset="1786">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.flipkart.sample.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.flipkart.sample.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="29" selection-start="697" selection-end="697" vertical-scroll-proportion="-10.071428" vertical-offset="79" max-vertical-offset="2546">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log4php.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log4php.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="44" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lib/redbeanphp/rb.php" />
+        <option value="$PROJECT_DIR$/Scrapper.php" />
+        <option value="$PROJECT_DIR$/configuration.php" />
+        <option value="$PROJECT_DIR$/model/ScrapperSpider.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="phpmamp" />
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="2513" />
-    <option name="height" value="878" />
+    <option name="width" value="2514" />
+    <option name="height" value="1418" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -66,6 +238,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web_scrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web_scrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web_scrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web_scrapper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -73,8 +269,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.Scrapper.php">
+    <configuration default="false" name="Scrapper.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Scrapper.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Scrapper.php" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/web_scrapper/Scrapper.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
@@ -88,9 +302,35 @@
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <list size="0" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.Scrapper.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Scrapper.php" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.Scrapper.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Scrapper.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="59eee52d-230f-4616-a279-4fe6830a9411" name="Default" comment="" />
@@ -100,23 +340,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="2513" height="878" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="2514" height="1418" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987398" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24990052" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23943663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987398" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -137,7 +377,172 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Scrapper.php</url>
+          <line>95</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Scrapper.php</url>
+          <line>76</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/lib/phpcrawl/classes/phpcrawler.class.php</url>
+          <line>207</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/lib/phpcrawl/classes/phpcrawler.class.php</url>
+          <line>170</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/model/ScrapperSpider.php</url>
+          <line>59</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/log4php/LoggerLayout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="0" selection-start="1661" selection-end="1661" vertical-scroll-proportion="-19.714285" vertical-offset="227" max-vertical-offset="1197">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/PDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="653" column="20" selection-start="18939" selection-end="18939" vertical-scroll-proportion="0.34226805" vertical-offset="12075" max-vertical-offset="25593">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/log4php/appenders/LoggerAppenderFile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="104" column="0" selection-start="2843" selection-end="2843" vertical-scroll-proportion="-11.535714" vertical-offset="1330" max-vertical-offset="2869">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/log4php/appenders/LoggerAppenderConsole.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="0" selection-start="2866" selection-end="2866" vertical-scroll-proportion="-24.464285" vertical-offset="816" max-vertical-offset="1786">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.flipkart.sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="29" selection-start="697" selection-end="697" vertical-scroll-proportion="-10.071428" vertical-offset="79" max-vertical-offset="2546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log4php.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="44" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="25" selection-start="652" selection-end="652" vertical-scroll-proportion="-6.685185" vertical-offset="0" max-vertical-offset="2698">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/redbeanphp/rb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="249" column="0" selection-start="7211" selection-end="7211" vertical-scroll-proportion="-11.535714" vertical-offset="4408" max-vertical-offset="47880">
+          <folding>
+            <marker date="1339847318000" expanded="true" signature="16871:16907" placeholder="ALTER TABLE $table ADD..." />
+            <marker date="1339847318000" expanded="true" signature="17385:17402" placeholder="UPDATE $tabl..." />
+            <marker date="1339847318000" expanded="true" signature="18428:18476" placeholder="INSERT INTO ..." />
+            <marker date="1339847318000" expanded="true" signature="19709:19722" placeholder="SELECT * FRO..." />
+            <marker date="1339847318000" expanded="true" signature="19999:20049" placeholder="SELECT count..." />
+            <marker date="1339847318000" expanded="true" signature="20964:21186" placeholder="SELECT count..KEY_COLUMN_USAGE..." />
+            <marker date="1339847318000" expanded="true" signature="21244:21345" placeholder="ALTER TABLE ..$table&#10;&#9;&#9;&#9;&#9;ADD..." />
+            <marker date="1339847318000" expanded="true" signature="21365:21380" placeholder="UPDATE SET N..." />
+            <marker date="1339847318000" expanded="true" signature="28136:28186" placeholder="ALTER TABLE $table CHANGE..." />
+            <marker date="1339847318000" expanded="true" signature="29289:29469" placeholder="SELECT count..KEY_COLUMN_USAGE..." />
+            <marker date="1339847318000" expanded="true" signature="30497:30521" placeholder="drop table i..." />
+            <marker date="1339847318000" expanded="true" signature="32327:32367" placeholder="ALTER TABLE ..." />
+            <marker date="1339847318000" expanded="true" signature="33347:33378" placeholder="DROP TABLE I..." />
+            <marker date="1339847318000" expanded="true" signature="33473:33518" placeholder="INSERT INTO ..." />
+            <marker date="1339847318000" expanded="true" signature="33496:33509" placeholder="SELECT * FRO..." />
+            <marker date="1339847318000" expanded="true" signature="33532:33551" placeholder="DROP TABLE `..." />
+            <marker date="1339847318000" expanded="true" signature="33661:33681" placeholder="INSERT INTO ..." />
+            <marker date="1339847318000" expanded="true" signature="33682:33706" placeholder="SELECT * FRO..tmp_backup..." />
+            <marker date="1339847318000" expanded="true" signature="33720:33741" placeholder="DROP TABLE t..." />
+            <marker date="1339847318000" expanded="true" signature="33870:33950" placeholder="SELECT name ..sqlite_master..." />
+            <marker date="1339847318000" expanded="true" signature="35048:35066" placeholder="DELETE FROM ..." />
+            <marker date="1339847318000" expanded="true" signature="36655:36686" placeholder="DROP TABLE I..." />
+            <marker date="1339847318000" expanded="true" signature="36785:36830" placeholder="INSERT INTO ..." />
+            <marker date="1339847318000" expanded="true" signature="36808:36821" placeholder="SELECT * FRO..." />
+            <marker date="1339847318000" expanded="true" signature="36885:36904" placeholder="DROP TABLE `..." />
+            <marker date="1339847318000" expanded="true" signature="37024:37044" placeholder="INSERT INTO ..." />
+            <marker date="1339847318000" expanded="true" signature="37045:37069" placeholder="SELECT * FRO..tmp_backup..." />
+            <marker date="1339847318000" expanded="true" signature="37085:37106" placeholder="DROP TABLE t..." />
+            <marker date="1339847318000" expanded="true" signature="37745:37769" placeholder="drop table i..." />
+            <marker date="1339847318000" expanded="true" signature="39014:39094" placeholder="select table..tables..." />
+            <marker date="1339847318000" expanded="true" signature="39394:39481" placeholder="select colum..columns..." />
+            <marker date="1339847318000" expanded="true" signature="40742:40800" placeholder="ALTER TABLE $table \n\t ALTER..." />
+            <marker date="1339847318000" expanded="true" signature="41069:41461" placeholder="SELECT i.rel..pg_class..." />
+            <marker date="1339847318000" expanded="true" signature="42544:43096" placeholder="SELECT c.oid..pg_class..." />
+            <marker date="1339847318000" expanded="true" signature="43197:43300" placeholder="ALTER TABLE ..$table&#10;&#9;&#9;&#9;&#9;&#9;ADD..." />
+            <marker date="1339847318000" expanded="true" signature="43320:43346" placeholder="UPDATE SET N..." />
+            <marker date="1339847318000" expanded="true" signature="43631:44216" placeholder="SELECT c.oid..pg_class..." />
+            <marker date="1339847318000" expanded="true" signature="44298:44417" placeholder="ALTER TABLE \&quot;$table\&quot;..." />
+            <marker date="1339847318000" expanded="true" signature="44449:44568" placeholder="ALTER TABLE \&quot;$table\&quot;..." />
+            <marker date="1339847318000" expanded="true" signature="44907:44938" placeholder="drop table i..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/tidy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="451" column="9" selection-start="14403" selection-end="14403" vertical-scroll-proportion="0.34226805" vertical-offset="8237" max-vertical-offset="16397">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/phpcrawl/classes/phpcrawler.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="532" column="37" selection-start="19788" selection-end="19790" vertical-scroll-proportion="-0.24074075" vertical-offset="9696" max-vertical-offset="15333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scrapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="0" selection-start="3633" selection-end="3633" vertical-scroll-proportion="-11.392858" vertical-offset="1486" max-vertical-offset="3040">
+          <folding>
+            <element signature="e#6#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/dom_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2095" column="20" selection-start="63934" selection-end="63934" vertical-scroll-proportion="0.61649483" vertical-offset="39207" max-vertical-offset="41211">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/ScrapperSpider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="52" selection-start="2793" selection-end="2793" vertical-scroll-proportion="-0.08163265" vertical-offset="1558" max-vertical-offset="2489">
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 

@@ -1,0 +1,101 @@
+Tue Aug  5 07:04:50 2014,208 [2334] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:04:58 2014,272 [2334] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:05:55 2014,377 [2347] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:05:56 2014,331 [2347] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:08:23 2014,103 [2359] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:08:23 2014,104 [2359] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:09:40 2014,635 [2367] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:09:40 2014,636 [2367] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:10:06 2014,792 [2371] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:10:06 2014,793 [2371] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:12:14 2014,857 [2385] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:12:14 2014,858 [2385] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:22:13 2014,839 [2473] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:22:13 2014,839 [2473] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:23:23 2014,586 [2482] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:23:23 2014,586 [2482] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:24:27 2014,206 [2488] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:24:27 2014,206 [2488] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:25:22 2014,106 [2492] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:25:22 2014,107 [2492] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:27:35 2014,019 [2503] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:27:35 2014,020 [2503] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:30:55 2014,455 [2521] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:30:55 2014,456 [2521] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:32:06 2014,188 [2527] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:32:06 2014,189 [2527] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:36:15 2014,059 [2585] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:36:15 2014,062 [2585] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:37:16 2014,999 [2613] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:37:17 2014,000 [2613] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:37:53 2014,743 [2631] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:37:53 2014,743 [2631] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:40:37 2014,746 [2642] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:40:37 2014,746 [2642] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:43:19 2014,116 [2673] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:43:19 2014,117 [2673] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:43:45 2014,721 [2676] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:43:45 2014,722 [2676] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:45:19 2014,578 [2701] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:45:19 2014,581 [2701] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:47:44 2014,777 [2717] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:47:44 2014,778 [2717] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:48:33 2014,569 [2724] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:48:33 2014,569 [2724] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:49:43 2014,486 [2729] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:49:43 2014,486 [2729] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:50:09 2014,894 [2729] TRACE verbose - Added the base URL as http://agmarknet.nic.in/rep1Newx1_today.asp
+Tue Aug  5 07:50:09 2014,897 [2729] TRACE verbose - No FollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 07:50:09 2014,897 [2729] TRACE verbose - No NonFollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 07:50:09 2014,898 [2729] TRACE verbose - Added the PageLimit value as 1
+Tue Aug  5 07:50:09 2014,898 [2729] TRACE verbose - Starting the crawler now...
+Tue Aug  5 07:50:14 2014,000 [2729] INFO default - Crawled the url - http://agmarknet.nic.in/rep1Newx1_today.asp
+
+Tue Aug  5 07:50:14 2014,000 [2729] TRACE verbose - Crawled the url - http://agmarknet.nic.in/rep1Newx1_today.asp
+Tue Aug  5 07:50:24 2014,902 [2734] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:50:24 2014,903 [2734] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:51:05 2014,230 [2734] TRACE verbose - Added the base URL as http://agmarknet.nic.in/rep1Newx1_today.asp
+Tue Aug  5 07:52:23 2014,472 [2734] TRACE verbose - No FollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 07:52:25 2014,340 [2734] TRACE verbose - No NonFollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 07:52:34 2014,158 [2734] TRACE verbose - Added the PageLimit value as 1
+Tue Aug  5 07:52:43 2014,722 [2734] TRACE verbose - Starting the crawler now...
+Tue Aug  5 07:58:05 2014,562 [2734] INFO default - Crawled the url - http://agmarknet.nic.in/rep1Newx1_today.asp
+
+Tue Aug  5 07:58:05 2014,563 [2734] TRACE verbose - Crawled the url - http://agmarknet.nic.in/rep1Newx1_today.asp
+Tue Aug  5 07:59:29 2014,979 [2869] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 07:59:29 2014,980 [2869] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 07:59:51 2014,556 [2869] TRACE verbose - Added the base URL as http://agmarknet.nic.in/rep1Newx1_today.asp
+Tue Aug  5 07:59:51 2014,557 [2869] TRACE verbose - No FollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 07:59:51 2014,558 [2869] TRACE verbose - No NonFollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 07:59:51 2014,558 [2869] TRACE verbose - Added the PageLimit value as 1
+Tue Aug  5 07:59:51 2014,558 [2869] TRACE verbose - Starting the crawler now...
+Tue Aug  5 08:00:01 2014,021 [2881] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 08:00:01 2014,021 [2881] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 08:00:01 2014,024 [2881] TRACE verbose - Added the base URL as http://agmarknet.nic.in/rep1Newx1_today.asp
+Tue Aug  5 08:00:01 2014,025 [2881] TRACE verbose - No FollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 08:00:01 2014,025 [2881] TRACE verbose - No NonFollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 08:00:01 2014,026 [2881] TRACE verbose - Added the PageLimit value as 1
+Tue Aug  5 08:00:01 2014,026 [2881] TRACE verbose - Starting the crawler now...
+Tue Aug  5 08:00:07 2014,507 [2881] INFO default - Crawled the url - http://agmarknet.nic.in/rep1Newx1_today.asp
+
+Tue Aug  5 08:00:07 2014,508 [2881] TRACE verbose - Crawled the url - http://agmarknet.nic.in/rep1Newx1_today.asp
+Tue Aug  5 08:00:27 2014,373 [2886] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 08:00:27 2014,374 [2886] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 08:00:30 2014,812 [2886] TRACE verbose - Added the base URL as http://agmarknet.nic.in/rep1Newx1_today.asp
+Tue Aug  5 08:00:30 2014,814 [2886] TRACE verbose - No FollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 08:00:30 2014,815 [2886] TRACE verbose - No NonFollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 08:00:30 2014,815 [2886] TRACE verbose - Added the PageLimit value as 1
+Tue Aug  5 08:00:30 2014,816 [2886] TRACE verbose - Starting the crawler now...
+Tue Aug  5 08:02:35 2014,949 [2886] INFO default - Crawled the url - http://agmarknet.nic.in/rep1Newx1_today.asp
+
+Tue Aug  5 08:02:36 2014,331 [2886] TRACE verbose - Crawled the url - http://agmarknet.nic.in/rep1Newx1_today.asp
+Tue Aug  5 08:04:15 2014,070 [2950] TRACE verbose - Scrapper Scraphp has been created and configured
+Tue Aug  5 08:04:15 2014,071 [2950] TRACE verbose - Starting to process site agmarket
+Tue Aug  5 08:04:30 2014,879 [2950] TRACE verbose - Added the base URL as http://agmarknet.nic.in/rep1Newx1_today.asp
+Tue Aug  5 08:04:30 2014,882 [2950] TRACE verbose - No FollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 08:04:30 2014,882 [2950] TRACE verbose - No NonFollowMatch Pattern were added to the Scraphp.
+Tue Aug  5 08:04:30 2014,883 [2950] TRACE verbose - Added the PageLimit value as 1
+Tue Aug  5 08:04:30 2014,883 [2950] TRACE verbose - Starting the crawler now...
+Tue Aug  5 08:04:50 2014,326 [2950] INFO default - Crawled the url - http://agmarknet.nic.in/rep1Newx1_today.asp
+
+Tue Aug  5 08:04:50 2014,326 [2950] TRACE verbose - Crawled the url - http://agmarknet.nic.in/rep1Newx1_today.asp
